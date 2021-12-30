@@ -1,0 +1,15 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/hieu/bean/ProductDetail.java=UTF-8
+encoding//src/main/java/com/hieu/config/ApplicationContextConfig.java=UTF-8
+encoding//src/main/java/com/hieu/controller/web/ProductClassify.java=UTF-8
+encoding//src/main/java/com/hieu/file/ExcelProduct.java=UTF-8
+encoding//src/main/java/com/hieu/regex/RegexPattern.java=UTF-8
+encoding//src/main/java/com/hieu/repository/inter/ProductDetailRepos.java=UTF-8
+encoding//src/main/resources/listcolor.txt=UTF-8
+encoding//src/main/webapp/WEB-INF/views/common/login.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/web/home.jsp=UTF-8
+encoding//src/main/webapp/common/admin/header.jsp=UTF-8
+encoding//src/main/webapp/common/web/footer.jsp=UTF-8
+encoding//src/main/webapp/common/web/header.jsp=UTF-8
+encoding//src/main/webapp/common/web/nav.jsp=UTF-8
+encoding//src/main/webapp/common/web/slide.jsp=UTF-8
